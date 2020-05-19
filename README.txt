@@ -11,7 +11,7 @@
 
 
 
-To create dummydata run following command:
+To create dummydata run custom management command:
 
  $ python manage.py createusers
 
