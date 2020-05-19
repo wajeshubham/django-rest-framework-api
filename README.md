@@ -3,17 +3,20 @@
  
  Run the following commands to get started:
 
- virtualenv env
- pip install -r requirement.txt
- python manage.py runserver
+ $ virtualenv env
+ $ pip install -r requirement.txt
+ $ python manage.py runserver
 
 
-#To create dummydata run following command:
 
- python manage.py createusers
+
+
+To create dummydata run following command:
+
+ $ python manage.py createusers
  
  
- createusers.py file location:
+createusers.py file location:
  
  myApp/
     __init__.py
