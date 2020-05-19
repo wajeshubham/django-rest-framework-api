@@ -27,3 +27,13 @@ createusers.py file location:
             createusers.py
     tests.py
     views.py
+    
+    
+    
+ after creating dummy data run the server:
+ 
+  $ python manage.py runserver
+  
+  
+ Now go to 'localhost:8000/myApp/' and click on value of "employee" key 
+ 
